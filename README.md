@@ -993,7 +993,7 @@ _[⌨️ Modifiers](https://updraft.cyfrin.io/courses/solidity/fund-me/solidity-
 ## Testnet Demo
 
 _[⌨️ Testnet Demo](https://updraft.cyfrin.io/courses/solidity/fund-me/testnet-demo)_
-
+                
 - [Disconnecting Metamask](https://help.1inch.io/en/articles/4666771-metamask-how-to-connect-disconnect-and-switch-accounts-with-metamask-on-1inch-network)
 
 ### Immutable & Constant
@@ -1324,7 +1324,7 @@ _[⌨️ Setup Continued ](https://updraft.cyfrin.io/courses/foundry/foundry-fun
 
 - [Chainlink Brownie Contracts Github Repo](https://github.com/smartcontractkit/chainlink-brownie-contracts)
   ```bash
-  forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
+  forge install smartcontractkit/chainlink-brownie-contracts@1.3.0 --no-commit
   ```
 - [Dependencies](https://book.getfoundry.sh/projects/dependencies)
 - [remappings](https://book.getfoundry.sh/reference/forge/forge-remappings)
